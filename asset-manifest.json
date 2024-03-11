@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/day1-exercises/static/css/main.351860f1.css",
+    "main.js": "/day1-exercises/static/js/main.5005d096.js",
+    "static/js/453.3e45eafa.chunk.js": "/day1-exercises/static/js/453.3e45eafa.chunk.js",
+    "index.html": "/day1-exercises/index.html",
+    "main.351860f1.css.map": "/day1-exercises/static/css/main.351860f1.css.map",
+    "main.5005d096.js.map": "/day1-exercises/static/js/main.5005d096.js.map",
+    "453.3e45eafa.chunk.js.map": "/day1-exercises/static/js/453.3e45eafa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.351860f1.css",
+    "static/js/main.5005d096.js"
+  ]
+}
